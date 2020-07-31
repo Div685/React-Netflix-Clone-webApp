@@ -3,10 +3,13 @@ import "./App.css";
 import Rows from "./Rows";
 import requests from "./requests";
 
+import Banner from "./banner/Banner";
+
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <Banner />
+
       <Rows
         title="Netflix Orginals"
         fetchUrl={requests.fetchNetflixOriginals}

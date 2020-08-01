@@ -4,10 +4,13 @@ import Rows from "./Rows";
 import requests from "./requests";
 
 import Banner from "./banner/Banner";
+import Nav from "./navbar/Nav";
 
 function App() {
   return (
     <div className="App">
+      <Nav />
+
       <Banner />
 
       <Rows

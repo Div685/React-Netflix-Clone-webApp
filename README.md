@@ -8,6 +8,8 @@ Netflix Clone using ReactJs, TMDB API.
 - Axios
 - TMDB API
 
+<img src="https://github.com/Div685/React-Netflix-Clone-webApp/blob/master/src/screenshots/netflix-screenshot1.png" width="800" height="500">
+
 ## Live Demo
 
 [Live Demo](https://netflix-clone-webapp.web.app/)

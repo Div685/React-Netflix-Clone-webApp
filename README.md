@@ -67,4 +67,4 @@ Give a :star: if you like this project
 
 ## License
 
-This page is [MIT](https://github.com/Div685) licence
+This page is [MIT](./LICENSE) license

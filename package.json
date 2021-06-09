@@ -22,6 +22,7 @@
     "react-youtube": "^7.11.3",
     "sockjs": "^0.3.20",
     "ssri": "^7.1.1",
+    "trim-newlines": "^3.0.1",
     "url-parse": "^1.5.0"
   },
   "scripts": {

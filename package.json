@@ -7,6 +7,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.21.1",
+    "css-what": "^5.0.1",
     "immer": "^8.0.1",
     "is-svg": "^4.2.2",
     "lodash": "^4.17.21",

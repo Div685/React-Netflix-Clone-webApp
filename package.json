@@ -14,7 +14,7 @@
     "is-svg": "^4.2.2",
     "lodash": "^4.17.21",
     "movie-trailer": "^2.0.6",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "node-notifier": "^8.0.1",
     "normalize-url": "^4.5.1",
     "object-path": "^0.11.8",

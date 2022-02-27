@@ -28,7 +28,7 @@
     "sockjs": "^0.3.20",
     "ssri": "^7.1.1",
     "trim-newlines": "^3.0.1",
-    "url-parse": "^1.5.2",
+    "url-parse": "^1.5.8",
     "ws": "^6.2.2",
     "yargs-parser": "^13.1.2"
   },
